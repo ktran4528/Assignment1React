@@ -1,0 +1,35 @@
+
+  .custom-button {
+    width: 100%;
+    padding-left: 0.5em;
+  
+    background-color: pink!important;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .text-area{
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    padding: 20px;
+    
+  }
+  
+  @media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 600px;
+    }
+  }
+  
